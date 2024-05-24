@@ -205,7 +205,7 @@ namespace Tur_agenstvo_Framework
                 {
                     textBoxNumberOfPassport.Text = "000000";
                 }
-
+                  
                 if (textBoxSeriesOfPassport.Text == "")
                 {
                     textBoxSeriesOfPassport.Text = "0000";
