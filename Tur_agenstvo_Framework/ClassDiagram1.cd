@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tur_agenstvo_Framework.ClientInfo">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAQABAAAAAEAAAAQQABAAAA=</HashCode>
+      <FileName>ClientInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tur_agenstvo_Framework.mainForm">
+    <Position X="6" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UIACoIEAASBEoBgAEgOLAoUCAAAQQAAAsAIFQDBAECA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tur_agenstvo_Framework.FormAdd">
+    <Position X="2.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yICAAAAASAAABASkACAAABCIAAAAAQCEACAAAAAAIA=</HashCode>
+      <FileName>FormAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tur_agenstvo_Framework.FormDel">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAACAAAACAAAIAAAAIEAAAAAAAAA=</HashCode>
+      <FileName>FormDel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tur_agenstvo_Framework.FormDiagram">
+    <Position X="5.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAABAAAKCAAAACAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>FormDiagram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tur_agenstvo_Framework.FormEdit">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAACAAAACBAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>FormEdit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tur_agenstvo_Framework.FormEdit2">
+    <Position X="7.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yACAAAAASAAABASkACAAABCIAAAAAACkAAABAAAAIA=</HashCode>
+      <FileName>FormEdit2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tur_agenstvo_Framework.FormFilter">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>5wACAAABASAAABASgAKAAAACIAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tur_agenstvo_Framework.GoodButton">
+    <Position X="9.5" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACIgAAACIAAAAAIAgIgAABCCAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GoodButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tur_agenstvo_Framework.Program">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tur_agenstvo_Framework.Record">
+    <Position X="8.25" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Record.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tur_agenstvo_Framework.TourInfo">
+    <Position X="8" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAgABAgAAIIAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>TourInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tur_agenstvo_Framework.Properties.Resources">
+    <Position X="0.5" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAgAgAgAAQAIhECAAAQAABARMAAEAAAAgGIQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tur_agenstvo_Framework.Properties.Settings">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
